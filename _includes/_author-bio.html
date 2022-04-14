@@ -12,7 +12,7 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
-  {% if author.lattes %}<a href="http://lattes.cnpq.br/{{ author.lattes }}" class="author-social" target="_blank"><i class="ai ai-lattes"></i> Lattes</a>{% endif %}
+  {% if author.lattes %}<a href="http://lattes.cnpq.br/{{ author.lattes }}" class="author-social" target="_blank"><i class="ai ai-fw ai-lattes"></i> Lattes</a>{% endif %}
   {% if author.orcid %}<a href="https://orcid.org/{{ author.orcid }}" class="author-social" target="_blank"><i class="ai ai-fw ai-orcid"></i> ORCID</a>{% endif %}
   {% if author.google.scholar %}<a href="https://scholar.google.fr/citations?user={{ author.google.scholar}}" class="author-social" target="_blank"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>{% endif %}
   {% if author.researchgate %}<a href="https://www.researchgate.net/profile/{{ author.researchgate }}" class="author-social" target="_blank"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>{% endif %}
