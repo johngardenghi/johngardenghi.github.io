@@ -1,0 +1,27 @@
+I"3<p>B.Sc. in Computer Science at <a href="https://www.usf.edu.br/english/">University São
+Francisco</a>, M.Sc. and D.Sc. in
+Computer Science in the <a href="https://www.ime.usp.br/en/home/">Institute of Mathematics and
+Statistics</a> at <a href="https://www5.usp.br/">University of Sao
+Paulo</a>.</p>
+
+<p>Currently, I am an assistant professor in <a href="http://fga.unb.br">Faculty UnB
+Gama</a> at <a href="http://www.unb.br">University of
+Brasília</a>. My main research interests are
+computational methods of optimization and algorithms.</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>E. G. Birgin, J. L. Gardenghi, D. S. Marcondes,
+J. M. Martínez. Accelerated derivative-free spectral residual method
+for nonlinear systems of equations. <em>submitted</em>. [<a href="papers/bgmmdiis.pdf" target="_blank">PDF</a>] [<a href="https://github.com/johngardenghi/dfsaneacc" target="_blank">Code</a>]</p>
+
+<p><a href="https://doi.org/10.1007/s11750-020-00559-w" target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+E. G. Birgin, J. L. Gardenghi, J. M. Martínez, S. A. Santos. On the
+solution of linearly constrained optimization problems by means of
+barrier algorithms. TOP, 2021. [<a href="#">PDF</a>]</p>
+
+<p><a href="https://doi.org/10.1007/s11750-020-00559-w" target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+J. L. Gardenghi, L. G. Pereira, S. M. Alcantara, R. M. C. Figueiredo,
+C. S. Ramos. Digitalization by Means of a Prototyping Process: The
+Case of a Brazilian Public Service. Information, 2020. [<a href="papers/mpdigitalization.pdf" target="_blank">PDF</a>]</p>
+:ET
