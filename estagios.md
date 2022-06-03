@@ -196,6 +196,10 @@ Sim, desde que o estágio seja remoto e isso esteja especificado no termo de com
 
 Sim, desde que esteja especificado no termo de compromisso de estágio. Neste caso, a empresa deve ser capaz de te oferecer um supervisor de estágio, também em periódo noturno.
 
+#### Existe algum limite de carga horária para estágio?
+
+Sim. Legalmente, não é permitido fazer estágio com mais de 30h semanais nem com mais de 6h diárias (veja inciso II do Art. 10 da <a href="http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm" target="_blank">Lei de Estágios</a>).
+
 #### Eu posso fazer estágio em qualquer empresa?
 
 Sim. Entretanto, o responsável pelo termo de compromisso precisa ser conveniado à UnB. Isto significa o seguinte:
