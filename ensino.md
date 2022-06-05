@@ -5,4 +5,5 @@ menutitle: Ensino
 menuorder: 2
 ---
 
-[FAC](fac)
+* Fundamentos de arquitetura de computadores
+  + [2022-1](fac-2022-1)
