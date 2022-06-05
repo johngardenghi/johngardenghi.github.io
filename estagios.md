@@ -2,10 +2,10 @@
 layout: page
 excerpt: "Estagios"
 menutitle: Estagios
-menuorder: 2
+menuorder: 3
 ---
 
-# Estágios
+Página de instruções gerais para estágio na FGA.
 
 ## Inscrição para a disciplina de Estágio Supervisionado
 
