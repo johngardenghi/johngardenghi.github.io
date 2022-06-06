@@ -99,6 +99,23 @@ href="papers/tecdisruptivas.pdf" target="_blank">PDF</a>]
 
 ### Conferences
 
+<a href="http://dx.doi.org/10.5220/0011113800003179"
+target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a> L. Santos,
+R. M. C. Figueiredo, R. Barbosa, A. Vincenzi, G. V. Pedrosa, and
+J. L. Gardenghi. Towards an Approach for Improving Exploratory Testing
+Tour Assignment based on Testers’ Profile. <i>Proceedings of the 24th
+International Conference on Enterprise Information Systems - Volume 2:
+ICEIS</i>, 2022.
+
+<a href="http://dx.doi.org/10.5220/0011108900003179"
+target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+R. M. C. Figueiredo, J. L. Gardenghi, L. Santos, R. Furtado,
+R. Barbosa, L. Boaventura, A. Modesto, and L. Martins. The Design of a
+Public Service Cost Model Tool to Evaluate Digital Transformation in
+Brazilian Government. <i>Proceedings of the 24th International
+Conference on Enterprise Information Systems - Volume 2: ICEIS</i>,
+2022.
+
 <a href="https://doi.org/10.1109/ICCSA.2012.34" target="_blank"><i
 class="ai ai-fw ai-doi ai-1x"></i></a> J. L. Gardenghi,
 M. A. G. Bardi. An Authentication Middleware for Squid Proxy-Cache: a
