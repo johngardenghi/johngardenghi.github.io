@@ -58,6 +58,7 @@ Há apenas duas modalidades de estágio: **obrigatório** e **não-obrigatório*
 * **Engenharia de Energia**: Prof.ª Maria Del Pilar Hidalgo Falla (pilar@unb.br)
 
 * **Engenharia de Software**: Prof. John L. C. Gardenghi (john.gardenghi@unb.br)
+  + *Atendimento*: terças e quintas-feiras das 9h às 11h (sala 22-UED).<br /><br />
 
 * **Engenharia Eletrônica**: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
 
