@@ -5,6 +5,9 @@ menutitle: Ensino
 menuorder: 2
 ---
 
+* Algoritmos e Programação de Computadores
+  + [2022-1](apc-2022-1)
+
 * Estruturas de Dados I
   + [2022-1](eda-2022-1)
 
