@@ -7,17 +7,17 @@ menuorder: 3
 
 Página de instruções gerais para estágio na FGA.
 
-## Inscrição para a disciplina de Estágio Supervisionado
+[comment]: <> ## Inscrição para a disciplina de Estágio Supervisionado
 
-**Para solicitar matrícula em Estágio Supervisionado para 2022.1, basta acessar <a href="https://forms.microsoft.com/r/9rStN25xG7" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 02/06/2022 a 31/07/2022**.
+[comment]: <> **Para solicitar matrícula em Estágio Supervisionado para 2022.1, basta acessar <a href="https://forms.microsoft.com/r/9rStN25xG7" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 02/06/2022 a 31/07/2022**.
 
-Para solicitar a inscrição, é necessário:
-* um orientador de estágio (qualquer professor da UnB que aceite te orientar),
-* documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
-* histórico escolar, emitido pelo SIGAA e
-* grade horária, emitida pelo SIGAA.
+[comment]: <> Para solicitar a inscrição, é necessário:
+[comment]: <> * um orientador de estágio (qualquer professor da UnB que aceite te orientar),
+[comment]: <> * documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
+[comment]: <> * histórico escolar, emitido pelo SIGAA e
+[comment]: <> * grade horária, emitida pelo SIGAA.
 
-Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
+[comment]: <> Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
 
 ## Conteúdo desta página
 
@@ -58,9 +58,8 @@ Há apenas duas modalidades de estágio: **obrigatório** e **não-obrigatório*
 * **Engenharia de Energia**: Prof.ª Maria Del Pilar Hidalgo Falla (pilar@unb.br)
 
 * **Engenharia de Software**: Prof. John L. C. Gardenghi (john.gardenghi@unb.br)
-  + *Atendimento*: terças e quintas-feiras das 9h às 11h (sala 22-UED).<br /><br />
 
-* **Engenharia Eletrônica**: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
+* **Engenharia Eletrônica**: Prof. Guillermo Alvarez Bestard (guillermo@unb.br)
 
 ## Estágio supervisionado
 
@@ -68,7 +67,7 @@ Estágio supervisionado é uma disciplina dos cursos de Engenharia da FGA.
 
 #### Quando faço a matrícula para a disciplina de estágio supervisionado?
 
-A matrícula **não** é feita junto com a matrícula das demais disciplinas. A solicitação de matrícula é feita pelo Microsoft Forms. O link para preenchimento do formulário será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
+A matrícula **não** é feita junto com a matrícula das demais disciplinas. A solicitação de matrícula é feita por inscrição pelo Microsoft Forms, geralmente depois do início das aulas do semestre em questão. O link para preenchimento do formulário, bem como o prazo, será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
 
 #### Como funciona a matrícula em Estágio Supervisionado?
 
@@ -169,14 +168,13 @@ Primeiro, confira se o seu contrato está de acordo com os 4 itens a seguir:
 
 1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa.
 
-2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios, mesmo em caso de estágios remotos (veja mais [aqui](#auxílio-transporte-e-seguro-contra-acidentes-pessoais-são-obrigatórios-para-estágios-não-obrigatórios)).
+2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios. Entretanto, se o estágio for remoto, o pagamento de auxílio transporte não é obrigatório. Neste caso, é necessário constar explicitamente no termo de compromisso que o estágio é remoto.
 
 3. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
 
 4. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
 Depois de conferir se o documento está ok, basta encaminhar ao [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga) e fazer o pré-cadastro do seu estágio pelo SIGAA de acordo com <a href="manual_orientacoes_estagios_nao_obrigatorios_discentes.pdf" target="_blank">este manual</a>.
-
 
 #### Como organizar meu horário para fazer um estágio?
 
@@ -230,7 +228,7 @@ São 4 possíveis documentos:
 
 #### Auxílio transporte e seguro contra acidentes pessoais são obrigatórios para estágios não-obrigatórios?
 
-Sim. Ambos são obrigatórios por lei (veja Art. 9 e Art. 12 da [Lei 11.788](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)), e não há nova lei que abra qualquer exceção para essa regra, mesmo diante do trabalho remoto durante a pandemia.
+Sim. Ambos são obrigatórios por lei (veja Art. 9 e Art. 12 da [Lei 11.788](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)), entretanto pagamento de auxílio transporte pode ser opcional caso o aluno esteja em regime de teletrabalho e isso esteja explicitado no termo de compromisso.
 
 #### Há algum modelo para os documentos?
 
