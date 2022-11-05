@@ -236,6 +236,7 @@ Sim.
 * [Termo de compromisso de estágio](modelos/tce.odt)
 * [Termo aditivo de estágio e plano de atividades](modelos/aditivo_tce_pa.odt)
 * [Termo de rescisão de estágio](modelos/rescisao.odt)
+* [Relatório de atividades](modelos/relatorio.odt)
 
 Caso a empresa ou a agência de integração já tenha providenciado um documento com modelo próprio, não é necessário providenciar os modelos da UnB, basta que as cláusulas estejam minimamente de acordo com os modelos.
 
