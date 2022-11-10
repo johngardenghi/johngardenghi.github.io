@@ -7,17 +7,17 @@ menuorder: 3
 
 Página de instruções gerais para estágio na FGA.
 
-[comment]: <> ## Inscrição para a disciplina de Estágio Supervisionado
+## Inscrição para a disciplina de Estágio Supervisionado
 
-[comment]: <> **Para solicitar matrícula em Estágio Supervisionado para 2022.1, basta acessar <a href="https://forms.microsoft.com/r/9rStN25xG7" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 02/06/2022 a 31/07/2022**.
+**Para solicitar matrícula em Estágio Supervisionado para 2022.2, basta acessar <a href="https://forms.office.com/r/2XhjmkXHFX" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 03/11/2022 a 03/12/2022**.
 
-[comment]: <> Para solicitar a inscrição, é necessário:
-[comment]: <> * um orientador de estágio (qualquer professor da UnB que aceite te orientar),
-[comment]: <> * documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
-[comment]: <> * histórico escolar, emitido pelo SIGAA e
-[comment]: <> * grade horária, emitida pelo SIGAA.
+Para solicitar a inscrição, é necessário:
+* um orientador de estágio (qualquer professor da UnB que aceite te orientar),
+* documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
+* histórico escolar, emitido pelo SIGAA e
+* grade horária, emitida pelo SIGAA.
 
-[comment]: <> Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
+Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
 
 ## Conteúdo desta página
 
