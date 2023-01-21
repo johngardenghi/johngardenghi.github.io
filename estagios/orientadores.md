@@ -56,7 +56,10 @@ A gestão de um estágio pode incluir 4 possíveis documentos:
 
 ### Termo de compromisso de estágio não obrigatório
 
-Para proceder com a contratação de um estágio não obrigatório, em primeiro lugar o orientador deve solicitar ao aluno o Termo de Compromisso de Estágio (TCE) com o Plano de Atividades (PA). Concomitantemente, pedir ao aluno que realize o pré-cadastro do estágio no SIGAA (um manual com instruções pode ser encontrado <a href="https://deg.unb.br/images/Diretorias/DAIA/cesg/arquivos_gerais/manual_estagio_nao_obrigatorio_discentes.pdf" target="_blank">aqui</a>).
+Para proceder com a contratação de um estágio não obrigatório:
+
+1. Solicitar ao aluno o Termo de Compromisso de Estágio (TCE) com o Plano de Atividades (PA).
+1. Solicitar ao aluno que realize o pré-cadastro do estágio no SIGAA (um manual com instruções pode ser encontrado <a href="https://deg.unb.br/images/Diretorias/DAIA/cesg/arquivos_gerais/manual_estagio_nao_obrigatorio_discentes.pdf" target="_blank">aqui</a>).
 
 Em seguida, seguir o *checklist* abaixo para conferência da forma e validade do documento.
 
