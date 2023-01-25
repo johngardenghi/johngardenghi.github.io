@@ -96,6 +96,6 @@ Em seguida, seguir o *checklist* abaixo para conferência da forma e validade do
 
 Se todos os itens do *checklist* estiverem de acordo, o professor orientador pode assinar o documento. Boas opções de assinatura digital incluem o SEI da UnB e a plataforma de <a href="https://www.gov.br/governodigital/pt-br/assinatura-eletronica" target="_blank">assinatura digital do Gov.br</a>.
 
-A assinatura do professor orientador é suficiente. Qualquer outra assinatura é dispensável.
+A assinatura do professor orientador é suficiente: pode assinar o documento como orientador e como representante da UnB (convenente). Qualquer outra assinatura é dispensável.
 
 Depois de assinado, o TCE/PA deve ser inserido no SIGAA. Para tanto, basta seguir este <a href="https://deg.unb.br/images/Diretorias/DAIA/cesg/arquivos_gerais/manual_estagio_nao_obrigatorio_coordenacao_secretaria_docentes.pdf" target="_blank">manual</a>.
