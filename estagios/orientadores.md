@@ -68,8 +68,8 @@ Em seguida, seguir o *checklist* abaixo para conferência da forma e validade do
    + Para acessar o pré-cadastro de um aluno orientando no SIGAA, basta seguir este <a href="https://deg.unb.br/images/Diretorias/DAIA/cesg/arquivos_gerais/manual_estagio_nao_obrigatorio_coordenacao_secretaria_docentes.pdf" target="_blank">manual</a>.
 <br><br>
 1. Assinaturas.
-   + Assinam o TCE: o aluno e o representante da empresa.
-   + Assinam o PA: o aluno, o representante da empresa e o supervisor de estágio.
+   + Assinam o TCE: o aluno, o representante da empresa e o professor orientador.
+   + Assinam o PA: o aluno, o representante da empresa, o supervisor de estágio na empresa e o professor orientador.
    + *Observações*:
      + É necessário que o documento já esteja assinado por todos. O professor orientador assina por último.
      + Caso uma das partes citadas no TCE esteja impedido de assinar, deverá ser apresentado o documento de delegação de competência para a substituição daquela assinatura.
