@@ -53,7 +53,7 @@ Há apenas duas modalidades de estágio: **obrigatório** e **não-obrigatório*
 
 * **Engenharia Aeroespacial**: Prof. Artem Andrianov (andrianov@unb.br)
 
-* **Engenharia Automotiva**: Prof.ª Rita de Cássia Silva (ritasilva@unb.br)
+* **Engenharia Automotiva**: Prof. Cristian Vendittozzi (estagio.automotiva@gmail.com)
 
 * **Engenharia de Energia**: Prof.ª Maria Del Pilar Hidalgo Falla (pilar@unb.br)
 
@@ -158,23 +158,31 @@ Qualquer aluno regularmente matriculado.
 
 #### Encontrei um estágio. E agora?
 
-Você deve formalizar seu estágio junto à UnB, senão seu contrato não é válido.
+O contrato deve estar assinado pelo aluno, empresa e universidade. Caso não esteja assinado pelas 3 partes, não é um contrato válido.
 
-Para formalização, você precisa providenciar um *termo de compromisso de estágio* e um *plano de atividades* e apresentá-los ao coordenador de estágio do seu curso.
+Para formalização, você precisa providenciar 
+1. um *termo de compromisso de estágio* e um *plano de atividades* e 
+2. encontrar um professor da UnB que aceite ser seu orientador de estágio.
 
-#### Tenho um termo de compromisso de estágio. O que devo fazer?
+#### Mas é um estágio não-obrigatório? Preciso mesmo ter um professor orientador?
+
+Sim.
+
+#### Tenho o termo de compromisso de estágio. O que devo fazer?
 
 Primeiro, confira se o seu contrato está de acordo com os 4 itens a seguir:
 
-1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa.
+1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa e recomenda que a solicitação de assinatura seja feita com, ao menos, 10 dias de antecedência da data de início do estágio.
 
 2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios. Entretanto, se o estágio for remoto, o pagamento de auxílio transporte não é obrigatório. Neste caso, é necessário constar explicitamente no termo de compromisso que o estágio é remoto.
 
-3. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
+3. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante". Mas se o estágio for presencial, você precisa ter disponível durante o dia uma janela da carga horária diária do estágio.
 
-4. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
+4. *O documento já está devidamente assinado pelas partes, com exceção da universidade*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
-Depois de conferir se o documento está ok, basta encaminhar ao [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga) e fazer o pré-cadastro do seu estágio pelo SIGAA de acordo com <a href="manual_orientacoes_estagios_nao_obrigatorios_discentes.pdf" target="_blank">este manual</a>.
+Depois de conferir se o documento está ok, basta encaminhar o documento ao seu professor orientador de estágio e fazer o pré-cadastro do seu estágio pelo SIGAA de acordo com <a href="manual_orientacoes_estagios_nao_obrigatorios_discentes.pdf" target="_blank">este manual</a>.
+
+Caso você ou seu orientador tenha dúvidas no processo, basta contactar o [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga).
 
 #### Como organizar meu horário para fazer um estágio?
 
