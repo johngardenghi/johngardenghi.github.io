@@ -8,12 +8,14 @@ menuorder: 2
 * Algoritmos e Programação de Computadores
   + [2022-1](apc-2022-1)
 
-* Estruturas de Dados I
+* Estruturas de Dados 1
   + [2022-1](eda-2022-1)
 
-* Estruturas de Dados II
+* Estruturas de Dados 2
+  + [2023-1](eda2-2023-1)
   + [2022-2](eda2-2022-2)
 
 * Fundamentos de arquitetura de computadores
+  + [2023-1](fac-2023-1)
   + [2022-2](fac-2022-2)
   + [2022-1](fac-2022-1)
