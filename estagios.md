@@ -9,7 +9,7 @@ Página de instruções gerais para estágio na FGA.
 
 ## Inscrição para a disciplina de Estágio Supervisionado
 
-**Para solicitar matrícula em Estágio Supervisionado para 2022.2, basta acessar <a href="https://forms.office.com/r/2XhjmkXHFX" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 03/11/2022 a 03/12/2022**.
+**Para solicitar matrícula em Estágio Supervisionado para 2023.1, basta acessar <a href="https://forms.office.com/r/VZYsYMaU7q" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 31/03/2023 a 27/05/2023**.
 
 Para solicitar a inscrição, é necessário:
 * um orientador de estágio (qualquer professor da UnB que aceite te orientar),
@@ -180,7 +180,10 @@ Primeiro, confira se o seu contrato está de acordo com os 4 itens a seguir:
 
 4. *O documento já está devidamente assinado pelas partes, com exceção da universidade*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
-Depois de conferir se o documento está ok, basta encaminhar o documento ao seu professor orientador de estágio e fazer o pré-cadastro do seu estágio pelo SIGAA de acordo com <a href="manual_orientacoes_estagios_nao_obrigatorios_discentes.pdf" target="_blank">este manual</a>.
+Depois de conferir se o documento está ok,
+1. Procure por um professor que aceite ser seu orientador. Pode ser qualquer professor da universidade.
+
+2. Quando o professor aceitar ser seu orientador, basta encaminhar o documento ao seu professor orientador de estágio e fazer o pré-cadastro do seu estágio pelo SIGAA de acordo com <a href="manual_orientacoes_estagios_nao_obrigatorios_discentes.pdf" target="_blank">este manual</a>.
 
 Caso você ou seu orientador tenha dúvidas no processo, basta contactar o [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga).
 
@@ -258,9 +261,8 @@ O termo de compromisso de estágio precisa ser assinado:
 O plano de atividades, por sua vez, deve ser assinado:
 1. pelo aluno, 
 2. pelo supervisor de estágio na empresa, 
-3. pelo representante da empresa, 
-4. pelo orientador de estágio na UnB e
-5. pela UnB.
+3. pelo representante da empresa e
+4. pelo professor orientador de estágio na UnB.
 
 #### Quem precisa assinar o termo aditivo de estágio?
 
@@ -271,15 +273,15 @@ Os mesmos que assinam o termo de compromisso.
 O termo de rescisão de estágio precisa ser assinado:
 1. pelo aluno,
 2. pelo representante da empresa e
-3. pela UnB.
+3. pelo professor orientador de estágio na UnB.
 
 #### Quando devo entregar um relatório de atividades?
 
 A universidade exige que relatórios sejam apresentados a cada 6 meses (exatamente).
 
-Os relatórios devem ser preenchidos pelo SIGAA (para aqueles cujos estágios já estão cadastrados no sistema).
+Os relatórios devem ser preenchidos pelo SIGAA (para aqueles cujos estágios já estão cadastrados no sistema). Nesse relatório, deve ser entregue um anexo. Caso a empresa não te dê um modelo, pode apresentar usando [este modelo](modelos/relatorio.odt).
 
-Às vezes, a empresa ou agência de integração possui outras exigências com relação a relatórios de atividades. Nesses casos, basta encaminhar o relatório para análise e assinatura do [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga).
+Às vezes, a empresa ou agência de integração possui outras exigências com relação a relatórios de atividades. Nesses casos, basta encaminhar o relatório para análise e assinatura do professor orientador do estágio.
 
 #### Estou utilizando meu estágio não-obrigatório na disciplina de Estágio Supervisionado. Preciso apresentar um relatório de atividades para o estágio não-obrigatório?
 
@@ -295,7 +297,9 @@ Sempre que o estágio for interrompido antes da data final constante no termo de
 
 #### Quem assina os documentos pela UnB?
 
-Na FGA é o [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga).
+É o professor orientador de estágio.
+
+O [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga) fica a disposição para resolver qualquer dúvida que possa aparecer durante o processo de assinatura.
 
 Na universidade, temos a [Coordenadoria de Estágios de Graduação (CESG)](http://www.deg.unb.br/a-coordenacao) da [Diretoria de Acompanhamento e Integração Acadêmica (DAIA)](http://www.deg.unb.br/a-diretoria) do [Decanato de Ensino de Graduação (DEG)](http://www.deg.unb.br/) que determina as diretrizes e normas de análise e assinatura de documentos.
 
@@ -305,7 +309,6 @@ As partes externas da UnB podem assinar os documentos de três maneiras:
 
 1. **Manualmente**. Neste caso, recomenda-se o uso do carimbo, principalmente se a assinatura for rubrica.
 2. **Digitalmente**, usando algum software de assinatura digital, como Adobe Reader, DocuSign, Assine Bem, ClickSign, entre outros. Particularmente, acho interessante a [plataforma de assinatura digital](https://www.gov.br/governodigital/pt-br/assinatura-eletronica) do Gov.br, grauita para qualquer cidadão brasileiro.
-3. **Digitalmente, usando o [SEI da UnB](https://www.portalsei.unb.br/)**. O SEI é um sistema institucional, e indicado para as assinaturas. Entretanto, exige cadastro de usuário externo, pessoal e intransferível.
 
 #### É possível enviar documentos para assinatura sem que esteja assinado pelas outras partes?
 
