@@ -7,18 +7,6 @@ menuorder: 3
 
 Página de instruções gerais para estágio na FGA.
 
-## Inscrição para a disciplina de Estágio Supervisionado
-
-**Para solicitar matrícula em Estágio Supervisionado para 2023.1, basta acessar <a href="https://forms.office.com/r/VZYsYMaU7q" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 31/03/2023 a 27/05/2023**.
-
-Para solicitar a inscrição, é necessário:
-* um orientador de estágio (qualquer professor da UnB que aceite te orientar),
-* documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
-* histórico escolar, emitido pelo SIGAA e
-* grade horária, emitida pelo SIGAA.
-
-Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
-
 ## Conteúdo desta página
 
 * [Sobre o estágio](#sobre-o-estágio)
@@ -26,6 +14,8 @@ Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#está
 * [Estágio supervisionado](#estágio-supervisionado)
 
 * [Estágio não-obrigatório](#estágio-não-obrigatório)
+
+Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
 
 ## Sobre o estágio
 
@@ -57,7 +47,7 @@ Há apenas duas modalidades de estágio: **obrigatório** e **não-obrigatório*
 
 * **Engenharia de Energia**: Prof.ª Maria Del Pilar Hidalgo Falla (pilar@unb.br)
 
-* **Engenharia de Software**: Prof. John L. C. Gardenghi (john.gardenghi@unb.br)
+* **Engenharia de Software**: Prof. John L. C. Gardenghi (estagio.software@unb.br)
 
 * **Engenharia Eletrônica**: Prof. Guillermo Alvarez Bestard (guillermo@unb.br)
 
@@ -65,9 +55,19 @@ Há apenas duas modalidades de estágio: **obrigatório** e **não-obrigatório*
 
 Estágio supervisionado é uma disciplina dos cursos de Engenharia da FGA.
 
+#### Inscrição para a disciplina de Estágio Supervisionado
+
+**Para solicitar matrícula em Estágio Supervisionado para 2023.1, basta acessar <a href="https://forms.office.com/r/VZYsYMaU7q" target="_blank">este formulário</a> (exceto para o curso de Engenharia Eletrônica), que ficará disponível de 31/03/2023 a 27/05/2023**.
+
+Para solicitar a inscrição, é necessário:
+* um orientador de estágio (qualquer professor da UnB que aceite te orientar),
+* documentação comprobatória do estágio (veja mais [aqui](#que-documentos-devo-apresentar-para-realizar-a-matrícula)),
+* histórico escolar, emitido pelo SIGAA e
+* grade horária, emitida pelo SIGAA.
+
 #### Quando faço a matrícula para a disciplina de estágio supervisionado?
 
-A matrícula **não** é feita junto com a matrícula das demais disciplinas. A solicitação de matrícula é feita por inscrição pelo Microsoft Forms, geralmente depois do início das aulas do semestre em questão. O link para preenchimento do formulário, bem como o prazo, será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
+A matrícula **não** é feita junto com a matrícula das demais disciplinas. A solicitação de matrícula é feita por inscrição pelo Microsoft Forms, geralmente depois do início das aulas do semestre em questão.
 
 #### Como funciona a matrícula em Estágio Supervisionado?
 
