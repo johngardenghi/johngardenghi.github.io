@@ -19,10 +19,12 @@ Esta página contém as disciplinas ministradas ao longo dos semestres.
   + [2023-1](eda2-2023-1)
   + [2022-2](eda2-2022-2)
 
-* Fundamentos de arquitetura de computadores
+* Fundamentos de Arquitetura de Computadores
   + [2023-1](fac-2023-1)
   + [2022-2](fac-2022-2)
   + [2022-1](fac-2022-1)
+
+## Pós-graduação
 
 * Fundamentos de Pesquisa Operacional
   + [2023-1](fpo-2023-1)
