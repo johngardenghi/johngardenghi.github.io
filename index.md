@@ -20,15 +20,6 @@ optimization and algorithms.
 
 ## Publications
 
-E. G. Birgin, J. L. Gardenghi, A. Laurain. Asymptotic bounds on the
-optimal radius when covering a set with minimum radius identical
-balls, *submitted*. [<a href="papers/bglcovering.pdf"
-target="_blank">PDF</a>] [<a
-href="https://github.com/johngardenghi/bglcovering"
-target="_blank">Code</a>] [<a
-href="https://johngardenghi.github.io/bglcovering/"
-target="_blank">Tables</a>]
-
 <a href="https://arxiv.org/abs/2104.13447" target="_blank"><i
 class="ai ai-fw ai-arxiv ai-1x"></i></a> E. G. Birgin,
 J. L. Gardenghi, D. S. Marcondes, J. M. Martínez. Accelerated
@@ -37,6 +28,17 @@ equations, *submitted*. [<a href="papers/bgmmdiis.pdf"
 target="_blank">PDF</a>] [<a
 href="https://github.com/johngardenghi/dfsaneacc"
 target="_blank">Code</a>]
+
+<a href="https://doi.org/10.1287/moor.2022.0104" target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+E. G. Birgin, J. L. Gardenghi, A. Laurain. Asymptotic bounds on the
+optimal radius when covering a set with minimum radius identical
+balls, <i>Mathematics of Operations Research</i>, *to appear*.
+[<a href="papers/bglcovering.pdf"
+target="_blank">PDF</a>] [<a
+href="https://github.com/johngardenghi/bglcovering"
+target="_blank">Code</a>] [<a
+href="https://johngardenghi.github.io/bglcovering/"
+target="_blank">Tables</a>]
 
 <a href="https://doi.org/10.1007/s11750-020-00559-w"
 target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
