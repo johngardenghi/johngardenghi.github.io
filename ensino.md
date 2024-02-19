@@ -16,10 +16,13 @@ Esta página contém as disciplinas ministradas ao longo dos semestres.
   + [2022-1](eda-2022-1)
 
 * Estruturas de Dados 2
+  + [2024-1](eda2-2024-1)
+  + 2023-2
   + [2023-1](eda2-2023-1)
   + [2022-2](eda2-2022-2)
 
 * Fundamentos de Arquitetura de Computadores
+  + 2023-2
   + [2023-1](fac-2023-1)
   + [2022-2](fac-2022-2)
   + [2022-1](fac-2022-1)
