@@ -32,7 +32,7 @@ target="_blank">Code</a>]
 <a href="https://doi.org/10.1287/moor.2022.0104" target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
 E. G. Birgin, J. L. Gardenghi, A. Laurain. Asymptotic bounds on the
 optimal radius when covering a set with minimum radius identical
-balls, <i>Mathematics of Operations Research</i>, *to appear*.
+balls, <i>Mathematics of Operations Research</i>, 2024.
 [<a href="papers/bglcovering.pdf"
 target="_blank">PDF</a>] [<a
 href="https://github.com/johngardenghi/bglcovering"
