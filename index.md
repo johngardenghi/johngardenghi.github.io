@@ -102,7 +102,7 @@ Aplicada em Governo Eletrônico (WCGE 2024)</i>, 2024.
 
 <a href="http://dx.doi.org/10.5220/0011774100003467"
 target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
-G. V. Pedrosa, J. L. Gardenghi, P. Dias, L. Feliz, A. Serafim,
+G. V. Pedrosa, J. L. Gardenghi, P. Dias, L. Felix, A. Serafim,
 L. Horinouchi, and R. M. C. Figueiredo.  A User-Centered Approach to
 Analyze Public Service Apps Based on Reviews.  <i>Proceedings of the
 25th International Conference on Enterprise Information Systems -
