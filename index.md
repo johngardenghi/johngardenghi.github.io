@@ -20,6 +20,8 @@ optimization and algorithms.
 
 ## Publications
 
+### Journal
+
 <a href="https://arxiv.org/abs/2104.13447" target="_blank"><i
 class="ai ai-fw ai-arxiv ai-1x"></i></a> E. G. Birgin,
 J. L. Gardenghi, D. S. Marcondes, J. M. Martínez. Accelerated
@@ -88,18 +90,23 @@ resolução do problema de quadrados mínimos: implementação e testes
 numéricos. <i>Trends in Applied and Computational Mathematics</i>, 2013.
 [<a href="http://www.scielo.br/pdf/tema/v14n1/07.pdf" target="_blank">PDF</a>]
 
-## Other publications
-
-### Chapters
-
-<a href="https://doi.org/10.22533/at.ed.61320040914"
-target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
-R. M. C. Figueiredo, L. S. Melo, J. L. Gardenghi,
-R. A. D. Kosloski. Tecnologias disruptivas no contexto da
-transformação digital. <i>Editora Atenas</i>, 2020. [<a
-href="papers/tecdisruptivas.pdf" target="_blank">PDF</a>]
-
 ### Conferences
+
+<a href="http://dx.doi.org/10.5753/wcge.2024.2505"
+target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+R. M. C. Figueiredo, G. V. Pedrosa, J. L. Gardenghi, E. Venson,
+M. O. Judice, A. C. B. Judice, F. F. Costa, W. M. P. da Silva, and
+G. Marsicano. Co-design and Co-creation in Digital Public Services: A
+Service Design Approach. <i>Anais do XII Workshop de Computação
+Aplicada em Governo Eletrônico (WCGE 2024)</i>, 2024.
+
+<a href="http://dx.doi.org/10.5220/0011774100003467"
+target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+G. V. Pedrosa, J. L. Gardenghi, P. Dias, L. Feliz, A. Serafim,
+L. Horinouchi, and R. M. C. Figueiredo.  A User-Centered Approach to
+Analyze Public Service Apps Based on Reviews.  <i>Proceedings of the
+25th International Conference on Enterprise Information Systems -
+Volume 1: ICEIS</i>, 2023.
 
 <a href="http://dx.doi.org/10.5220/0011113800003179"
 target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a> L. Santos,
@@ -124,3 +131,12 @@ M. A. G. Bardi. An Authentication Middleware for Squid Proxy-Cache: a
 Single Sign-on Approach. <i>12th International Conference on
 Computational Science and Its Applications</i>, 2012. [<a
 href="papers/gbiccsa.pdf" target="_blank">PDF</a>]
+
+### Chapters
+
+<a href="https://doi.org/10.22533/at.ed.61320040914"
+target="_blank"><i class="ai ai-fw ai-doi ai-1x"></i></a>
+R. M. C. Figueiredo, L. S. Melo, J. L. Gardenghi,
+R. A. D. Kosloski. Tecnologias disruptivas no contexto da
+transformação digital. <i>Editora Atenas</i>, 2020. [<a
+href="papers/tecdisruptivas.pdf" target="_blank">PDF</a>]
