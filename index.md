@@ -22,8 +22,8 @@ optimization and algorithms.
 
 ### Journal
 
-<a href="https://arxiv.org/abs/2104.13447" target="_blank"><i
-class="ai ai-fw ai-arxiv ai-1x"></i></a> E. G. Birgin,
+<a href="https://doi.org/10.1051/ro/2024234" target="_blank"><i
+class="ai ai-fw ai-doi ai-1x"></i></a> E. G. Birgin,
 J. L. Gardenghi, D. S. Marcondes, J. M. Martínez. Accelerated
 derivative-free spectral residual method for nonlinear systems of
 equations, <i>RAIRO - Operations Reserarch</i>, *to appear*. [<a
