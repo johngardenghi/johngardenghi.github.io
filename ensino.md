@@ -13,6 +13,7 @@ Esta página contém as disciplinas ministradas ao longo dos semestres.
   + [2022-1](apc-2022-1)
 
 * Estruturas de Dados 1
+  + [2025-1](eda1-2025-1)
   + [2022-1](eda-2022-1)
 
 * Estruturas de Dados 2
