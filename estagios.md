@@ -1,4 +1,5 @@
 ---
+redirect_to: https://software.unb.br/ensino/estagio
 layout: page
 excerpt: "Estagios"
 ---

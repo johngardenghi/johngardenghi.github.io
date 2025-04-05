@@ -1,8 +1,6 @@
 ---
 layout: page
 excerpt: "Ensino"
-menutitle: Ensino
-menuorder: 2
 ---
 
 Esta página contém as disciplinas ministradas ao longo dos semestres.

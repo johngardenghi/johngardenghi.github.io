@@ -1,8 +1,6 @@
 ---
 layout: page
 excerpt: "About"
-menutitle: Home
-menuorder: 1
 ---
 
 B.Sc. in Computer Science at <a href="https://www.usf.edu.br/english/"

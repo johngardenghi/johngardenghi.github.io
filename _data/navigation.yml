@@ -6,6 +6,6 @@
   url: "/ensino/"
   menuorder: 2
 - title: "Estágios"
-  url: "https://software.unb.br/ensino/estagio"
+  url: "/estagios/"
   menuorder: 3
 
