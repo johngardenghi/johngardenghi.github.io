@@ -1,8 +1,6 @@
 ---
 layout: page
 excerpt: "Estagios"
-menutitle: Estagios
-menuorder: 3
 ---
 
 Página de instruções gerais para estágio na FGA.
