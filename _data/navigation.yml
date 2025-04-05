@@ -1,5 +1,11 @@
 # Site navigation links
-- title: 
-  url: 
-  menuorder: 
+- title: "Home"
+  url: "/"
+  menuorder: 1
+- title: "Ensino"
+  url: "/ensino/"
+  menuorder: 2
+- title: "Estágios"
+  url: "https://software.unb.br/ensino/estagio"
+  menuorder: 3
 
